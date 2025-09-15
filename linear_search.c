@@ -1,3 +1,4 @@
+//to search for a key in a given array using linear search
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
